@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PanicApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="sign_in">SignIn</string>
+    <string name="ingrese_su_correo_android_string_defaultvoicemailalphatag">Ingrese su correo @android:string/defaultVoiceMailAlphaTag</string>
+    <string name="login">LogIn</string>
+    <string name="guardar">Guardar</string>
+    <string name="usuarios">Usuarios</string>
+    <string name="panic">PANIC</string>
+    <string name="mensajes">Mensajes</string>
+</resources>
